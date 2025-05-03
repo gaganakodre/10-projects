@@ -1,0 +1,18 @@
+Title:Flatemate Bill
+
+Descrption: an app that gets as input the amount of bill for a particular period and the days of that each
+flatemates stayed in the home for period and retuen how much faltemates has to pay,and it generates a PDF starting
+the names of the flate and period and how much each of them has to pay
+
+object:Bill:
+        (attribute:amount,period)
+       Flatmates:
+        (attributes:days_in_house,name)
+        (method: pay(bill))
+       PdfReport:
+         (attributes:file_name)
+         generate(flate_mate1,flatemate2,bill)
+
+
+
+
