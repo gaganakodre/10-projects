@@ -1,0 +1,5 @@
+id,project_name,estimated_cost,summary_data,shared_by,date_shared_with_master_plan,asset_types,total_kw,carbon_abatement_15years,proposed_date,confidence_rating,reReviewDate,reviewdata
+3239,PV Project,280511.0,"[{'Number': 3, 'Total kW': 267, 'Asset Type': 'ROOFTOP PHOTOVOLTAICS'}]",Gabriel Clarkson,20-01-2025 14:00,Rooftop Photovoltaics,267,211488,"[2025, 2026, 2027]",96.15%,13-01-2026,
+3240,HP Project,41366.42,"[{'Number': 4, 'Total kW': 47, 'Asset Type': 'AIR SOURCE HEAT PUMP'}, {'Number': 1, 'Total kW': 150, 'Asset Type': 'EV CHARGER'}]",Gabriel Clarkson,20-01-2025 14:02,"Air Source Heat Pump, Ev Charger",197,814389,"[2028, 2029, 2030, 2031]",46.15%,,
+3242,Sample PV project,100459.0,"[{'Number': 2, 'Total kW': 77, 'Asset Type': 'ROOFTOP PHOTOVOLTAICS'}]",Gabriel Clarkson,20-01-2025 14:44,Rooftop Photovoltaics,77,60991,"[2026, 2027, 2028]",80.77%,,
+3447,EV project example,98221.0,"[{'Number': 1, 'Total kW': 350, 'Asset Type': 'EV CHARGER'}]",Gabriel Clarkson,10-03-2025 10:08,Ev Charger,350,0,"[2026, 2027]",80.77%,,

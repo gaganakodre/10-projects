@@ -1,0 +1,3 @@
+id,scenario_name,uuid,shared_by,net_zero_target_year,date_shared_with_master_plan,Technologies used,mean_carbon_savings_per_building_kg,mean_cost_per_building,total_renewable_generation_mw,reviewdata
+4141,sample scenario portfolio,2c96b720-08c3-4129-9e93-0c7528044243,Gabriel Clarkson,,28-03-2025 11:49,"Rooftop Photovoltaics, Air Source Heat Pump, Loft, External, Under Floor, Cavity",4332.49,6330.6,0.0,
+4470,Full area scenario uncapped,3856077a-d954-48e1-8428-0016e439257f,Gabriel Clarkson,,28-03-2025 11:49,"Rooftop Photovoltaics, Air Source Heat Pump, Loft, External, Under Floor, Cavity",4876.69,7947.05,222271.51,

@@ -1,0 +1,4 @@
+label,value,order,title,chart_type
+Heat,1,3,Breakdown of projects by decarbonization goal,donut
+Renewable Generation,2,3,Breakdown of projects by decarbonization goal,donut
+Transport,2,3,Breakdown of projects by decarbonization goal,donut

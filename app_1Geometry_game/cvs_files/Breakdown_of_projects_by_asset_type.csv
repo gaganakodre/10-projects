@@ -1,0 +1,4 @@
+label,value,order,title,chart_type
+Air Source Heat Pump,1,2,Breakdown of projects by asset type,donut
+EV Charger,2,2,Breakdown of projects by asset type,donut
+Rooftop Photovoltaics,2,2,Breakdown of projects by asset type,donut

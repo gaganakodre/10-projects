@@ -1,0 +1,4 @@
+label,value,order,title,chart_type
+Air Source Heat Pump,880.14,4,Average cost per kW for asset types,donut
+Ev Charger,280.63,4,Average cost per kW for asset types,donut
+Rooftop Photovoltaics,"1,304.66",4,Average cost per kW for asset types,donut

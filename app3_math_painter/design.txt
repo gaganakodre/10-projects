@@ -1,0 +1,26 @@
+Math_painter app
+Description:An app that lts the user to provide the strat coordinates of the geometrical shapes such as square and rectangle
+their dimensions,their colors and program produced the png image that produces the geometrical shaped drawn on the canvas.
+
+Objects:Square
+           x
+           y
+           side
+           color
+           draw(canvas->obj instance)
+
+        Rectangle
+           x
+           y
+           height
+           width
+           color
+           draw(canvas->obj instance)
+
+        Canvas
+            width
+            height
+            color
+            make(img_path)
+
+
